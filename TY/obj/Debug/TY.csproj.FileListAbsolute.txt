@@ -1,0 +1,15 @@
+D:\fiserkl15\TY\TY\bin\Debug\TY.exe.config
+D:\fiserkl15\TY\TY\bin\Debug\TY.exe
+D:\fiserkl15\TY\TY\bin\Debug\TY.pdb
+D:\fiserkl15\TY\TY\obj\Debug\TY.csprojResolveAssemblyReference.cache
+D:\fiserkl15\TY\TY\obj\Debug\MainWindow.g.cs
+D:\fiserkl15\TY\TY\obj\Debug\App.g.cs
+D:\fiserkl15\TY\TY\obj\Debug\TY_MarkupCompile.cache
+D:\fiserkl15\TY\TY\obj\Debug\TY_MarkupCompile.lref
+D:\fiserkl15\TY\TY\obj\Debug\MainWindow.baml
+D:\fiserkl15\TY\TY\obj\Debug\TY.g.resources
+D:\fiserkl15\TY\TY\obj\Debug\TY.Properties.Resources.resources
+D:\fiserkl15\TY\TY\obj\Debug\TY.csproj.GenerateResource.Cache
+D:\fiserkl15\TY\TY\obj\Debug\TY.csproj.CoreCompileInputs.cache
+D:\fiserkl15\TY\TY\obj\Debug\TY.exe
+D:\fiserkl15\TY\TY\obj\Debug\TY.pdb
